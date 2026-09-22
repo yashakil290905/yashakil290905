@@ -157,7 +157,7 @@ Full-stack social platform concept combining a modern React frontend with Django
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashakil290905&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yashakil290905&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" /> -->
 
 </div>
 
