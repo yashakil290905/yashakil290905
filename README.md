@@ -1,3 +1,4 @@
+````html
 <div align="center">
 
 # 👋 Hi, I'm **Yasin Arafat Shakil**
@@ -6,7 +7,7 @@
 
 **Python • Django • React • JavaScript • REST API**
 
-I build modern, responsive and practical web applications.
+Building modern, responsive and practical web applications.
 
 <br>
 
@@ -15,7 +16,7 @@ I build modern, responsive and practical web applications.
 <br><br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/GitHub-yashakil290905-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-yashakil290905-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com/in/yashakil290905">
@@ -23,7 +24,7 @@ I build modern, responsive and practical web applications.
 </a>
 
 <a href="mailto:yashakil290905@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 </div>
@@ -34,20 +35,21 @@ I build modern, responsive and practical web applications.
 
 <table>
 <tr>
+
 <td width="60%">
 
-I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern web applications and digital solutions.
+I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern web applications, REST APIs and practical digital solutions.
 
 ### 🚀 What I Do
 
-* 🐍 Python & Django Development
-* ⚛️ React & JavaScript Development
-* 🔌 REST API Development
-* 💻 Full Stack Web Applications
-* 🗄️ Database-driven Applications
-* 🎨 Responsive Frontend Development
-* 🔧 Git & GitHub
-* 🚀 Web Application Development
+- 🐍 Python & Django Development
+- ⚛️ React & JavaScript Development
+- 🔌 REST API Development
+- 💻 Full Stack Web Applications
+- 🗄️ Database-driven Applications
+- 🎨 Responsive Frontend Development
+- 🔧 Git & GitHub
+- 🚀 Web Application Development
 
 </td>
 
@@ -71,15 +73,16 @@ I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern w
 ║ 💡 Creating              ║
 ║                          ║
 ╚══════════════════════════╝
-```
+````
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## ⚡ Current Focus
+# ⚡ Current Focus
 
 <div align="center">
 
@@ -89,9 +92,9 @@ I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern w
 
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 
-<img src="https://img.shields.io/badge/REST%20API-Building-FF914D?style=for-the-badge" alt="REST API">
+<img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
-<img src="https://img.shields.io/badge/CCNA-Learning-1BA0D7?style=for-the-badge" alt="CCNA">
+<img src="https://img.shields.io/badge/REST%20API-Building-FF914D?style=for-the-badge" alt="REST API">
 
 </div>
 
@@ -137,21 +140,15 @@ I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern w
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/yashakil290905?label=Followers&style=for-the-badge&color=ff914d" alt="GitHub Followers">
-
-<img src="https://img.shields.io/github/repo-size/yashakil290905/yashakil290905?label=Profile%20Repo%20Size&style=for-the-badge&color=ff914d" alt="Repository Size">
-
-<img src="https://img.shields.io/github/last-commit/yashakil290905/yashakil290905?label=Last%20Profile%20Update&style=for-the-badge&color=ff914d" alt="Last Update">
-
-</div>
-
-<br>
-
-<div align="center">
-
 <a href="https://github.com/yashakil290905?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+
+<img src="https://img.shields.io/badge/Repositories-Explore-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+
 </a>
+
+<img src="https://img.shields.io/github/followers/yashakil290905?label=Followers&style=for-the-badge&color=FF914D" alt="Followers">
+
+<img src="https://img.shields.io/github/commit-activity/y/yashakil290905/yashakil290905?style=for-the-badge&label=Profile%20Activity" alt="Profile Activity">
 
 </div>
 
@@ -160,6 +157,7 @@ I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern w
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -175,7 +173,17 @@ Modern responsive e-commerce website with product-focused UI and responsive layo
 <br>
 
 <a href="https://yashakil290905.github.io/Aytor/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-FF914D?style=for-the-badge" alt="Aytor Live Demo">
+
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-FF914D?style=for-the-badge" alt="Live Demo">
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/yashakil290905">
+
+<img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+
 </a>
 
 </td>
@@ -189,6 +197,14 @@ Modern messaging application focused on communication and full-stack application
 **Tech Stack**
 
 `React` `JavaScript` `API` `Backend`
+
+<br>
+
+<a href="https://github.com/yashakil290905">
+
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+</a>
 
 </td>
 
@@ -206,6 +222,14 @@ Full-stack social platform concept using React frontend and Django backend servi
 
 `React` `Django` `REST API` `Database`
 
+<br>
+
+<a href="https://github.com/yashakil290905">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+</a>
+
 </td>
 
 <td width="50%" valign="top">
@@ -218,9 +242,18 @@ A practical QR-based application designed for useful digital functionality.
 
 `Python` `Web` `API`
 
+<br>
+
+<a href="https://github.com/yashakil290905">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+</a>
+
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -241,21 +274,20 @@ A practical QR-based application designed for useful digital functionality.
 
 ---
 
-# 📈 GitHub Contributions
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github.com/yashakil290905.png" width="150" height="150" style="border-radius:50%" alt="Yasin Arafat Shakil">
+<a href="https://github.com/yashakil290905">
 
-<br><br>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=yashakil290905&theme=github-compact&hide_border=true"
+width="100%"
+alt="GitHub Activity Graph">
 
-<a href="https://github.com/yashakil290905?tab=overview">
-<img src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Graph">
 </a>
 
 </div>
-
-> My contribution activity is available directly on my GitHub profile.
 
 ---
 
@@ -263,7 +295,10 @@ A practical QR-based application designed for useful digital functionality.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashakil290905/yashakil290905/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
+<img
+src="https://raw.githubusercontent.com/yashakil290905/yashakil290905/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="GitHub Contribution Snake">
 
 </div>
 
@@ -311,10 +346,30 @@ A practical QR-based application designed for useful digital functionality.
 <div align="center">
 
 <img src="https://img.shields.io/badge/Clean%20Code-FF914D?style=for-the-badge" alt="Clean Code">
+
 <img src="https://img.shields.io/badge/Responsive%20Design-FF914D?style=for-the-badge" alt="Responsive Design">
+
 <img src="https://img.shields.io/badge/API%20First-FF914D?style=for-the-badge" alt="API First">
+
 <img src="https://img.shields.io/badge/Problem%20Solving-FF914D?style=for-the-badge" alt="Problem Solving">
+
 <img src="https://img.shields.io/badge/Continuous%20Learning-FF914D?style=for-the-badge" alt="Continuous Learning">
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Advanced Django">
+
+<img src="https://img.shields.io/badge/REST%20API-FF914D?style=for-the-badge" alt="REST API">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge" alt="CCNA">
 
 </div>
 
@@ -325,15 +380,21 @@ A practical QR-based application designed for useful digital functionality.
 <div align="center">
 
 <a href="https://github.com/yashakil290905">
+
 <img src="https://img.shields.io/badge/GitHub-yashakil290905-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
 </a>
 
 <a href="https://linkedin.com/in/yashakil290905">
+
 <img src="https://img.shields.io/badge/LinkedIn-Yasin%20Arafat%20Shakil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
 </a>
 
 <a href="mailto:yashakil290905@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-yashakil290905%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+
 </a>
 
 </div>
@@ -347,3 +408,22 @@ A practical QR-based application designed for useful digital functionality.
 **Thanks for visiting my profile! 🚀**
 
 </div>
+```
+
+### ✅ আপনার repository structure
+
+শেষে আপনার repository এমন থাকবে:
+
+```text
+yashakil290905/
+│
+├── .github/
+│   └── workflows/
+│       └── snake.yml
+│
+└── README.md
+```
+
+**প্রথমে `snake.yml` → Actions থেকে Run → green ✅ → তারপর `README.md` commit করুন।**
+
+আর যদি **GitHub Stats, Top Languages, Streak, Activity Graph—সবগুলোই একসাথে reliableভাবে দেখাতে চান**, তাহলে পরের ধাপে এগুলোর জন্য আলাদা GitHub Actions/local SVG setup করা ভালো; এতে Camo/external dynamic-card সমস্যা অনেকটাই এড়ানো যাবে।
