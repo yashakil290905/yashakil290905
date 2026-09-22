@@ -1,103 +1,204 @@
-<h1 align="center">Hi 👋, I'm Yasin Arafat Shakil</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff914d&height=220&section=header&text=YASIN%20ARAFAT%20SHAKIL&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20React&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashakil290905&label=Profile%20views&color=0e75b6&style=flat"
-    alt="yashakil290905" /> </p>
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF914D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+Developer;React+%7C+JavaScript+Developer;REST+API+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 
+<br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=yashakil290905" alt="yashakil290905" /></a> </p>
+<a href="https://github.com/yashakil290905">
+<img src="https://komarev.com/ghpvc/?username=yashakil290905&label=PROFILE+VIEWS&color=ff914d&style=for-the-badge" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/yashakil290905" target="blank"><img
-      src="https://img.shields.io/twitter/follow/yashakil290905?logo=twitter&style=for-the-badge"
-      alt="yashakil290905" /></a> </p>
+<a href="https://github.com/yashakil290905?tab=followers">
+<img src="https://img.shields.io/github/followers/yashakil290905?label=FOLLOWERS&style=for-the-badge&color=ff914d" />
+</a>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt=""> 
+<a href="https://github.com/yashakil290905?tab=repositories">
+<img src="https://img.shields.io/github/stars/yashakil290905?label=STARS&style=for-the-badge&color=ff914d" />
+</a>
 
-- 🔭 I’m currently working on **Python & Django**
+</div>
 
-- 🌱 I’m currently learning **CCNA etc**
+---
 
-- 🤝 I’m looking for help with **Aytor E-commerce Site**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashakil290905](https://github.com/yashakil290905)
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  👋 Hi, I'm Yasin Arafat Shakil                             │
+│                                                              │
+│  💻 Full Stack Developer                                    │
+│  🐍 Python & Django Developer                               │
+│  ⚛️ React & JavaScript Developer                            │
+│  🔌 REST API Developer                                      │
+│  🎨 Frontend & UI Development                               │
+│                                                              │
+│  I build modern, responsive and scalable web applications, │
+│  REST APIs and practical digital solutions.                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-- 💬 Ask me about **HTML, CSS, SASS, Bootstrap, Tailwind CSS, Jquery, JS, Python, Django, Django Rest Framework, API**
+### 🚀 What I Do
 
-- 📫 How to reach me **yashakil290905@gmail.com**
+* 💻 Full Stack Web Development
+* 🐍 Python & Django Development
+* ⚛️ React & JavaScript Development
+* 🔌 REST API & Backend Development
+* 🗄️ Database Design & Management
+* 🎨 Responsive UI Development
+* 🔧 Git & GitHub Workflow
+* 🚀 Web Application Development
 
-- ⚡ Fun fact **I am Funny 🏅**
+---
 
+## 🧠 Current Focus
 
+```text
+🔭 Working with          → Python & Django
+🌱 Learning              → CCNA & Advanced Development
+⚡ Building              → Full Stack Web Applications
+🔌 Exploring             → REST APIs & Backend Architecture
+🎯 Goal                  → Build scalable digital products
+```
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/yashakil290905" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="yashakil290905" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yashakil290905" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="yashakil290905" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://meta.stackexchange.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="https://meta.stackexchange.com/" height="30" width="40" /></a>
-  <a href="https://fb.com/profile.php?id=100094200049300" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="profile.php?id=100094200049300" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/yashakil/?hl=en" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/yashakil/?hl=en" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> <a
-    href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" />
-  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> <a
-    href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-    href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-    href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-      height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala"
-      width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a> </p>
+### 🐍 Backend
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yashakil290905&show_icons=true&locale=en&layout=compact"
-    alt="yashakil290905" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yashakil290905&show_icons=true&locale=en" alt="yashakil290905" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashakil290905&" alt="yashakil290905" /></p>
+### 🗄️ Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,linux,bash" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Aytor — E-Commerce Website
+
+Modern responsive e-commerce website with a clean UI and product-focused design.
+
+**Tech:** HTML • CSS • JavaScript • Bootstrap
+
+🔗 **Live Demo:**
+https://yashakil290905.github.io/Aytor/
+
+---
+
+### 💬 Nexa Messenger
+
+A modern messaging application focused on real-time communication and modern user experience.
+
+**Tech:** React • JavaScript • Backend API
+
+---
+
+### 🌐 SocialConnect / Jonomot
+
+Full-stack social platform concept combining a modern React frontend with Django backend services.
+
+**Tech:** React • Django • REST API • Database
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashakil290905&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff914d&icon_color=ff914d&text_color=ffffff&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashakil290905&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff914d&text_color=ffffff" width="41%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashakil290905&theme=dark&hide_border=true&background=0D1117&ring=FF914D&fire=FF914D&currStreakLabel=FF914D" width="70%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashakil290905&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashakil290905&bg_color=0d1117&color=ffffff&line=ff914d&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/yashakil290905">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/yashakil290905">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="mailto:yashakil290905@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
