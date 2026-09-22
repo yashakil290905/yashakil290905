@@ -1,12 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yasin Arafat Shakil
-
-### 💻 Full Stack Developer
-
-**Python • Django • React • JavaScript • REST API**
-
-Building modern, responsive and practical web applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:ff914d&height=180&section=header&text=YASIN%20ARAFAT%20SHAKIL&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=18&descColor=ff914d" width="100%" alt="Yasin Arafat Shakil">
 
 <br>
 
@@ -15,71 +9,95 @@ Building modern, responsive and practical web applications.
 <br><br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/GitHub-yashakil290905-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com/in/yashakil290905">
-<img src="https://img.shields.io/badge/LinkedIn-Yasin%20Arafat%20Shakil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:yashakil290905@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-FULL%20STACK%20DEVELOPER-FF914D?style=for-the-badge" alt="Full Stack Developer">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+# `FULL STACK DEVELOPER`
+
+### Building modern web applications, APIs and practical digital products.
+
+<br>
+
+**Python**  • 
+**Django**  • 
+**React**  • 
+**JavaScript**  • 
+**REST API**  • 
+**Databases**
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern web applications, REST APIs and practical digital solutions.
+### Hello, I'm Yasin 👋
 
-### 🚀 What I Do
+I'm a **Full Stack Developer** focused on creating modern, responsive and practical web applications.
 
-* 🐍 Python & Django Development
-* ⚛️ React & JavaScript Development
-* 🔌 REST API Development
-* 💻 Full Stack Web Applications
+My development work combines **frontend interfaces, backend systems, REST APIs and databases** to build complete digital solutions.
+
+I enjoy turning ideas into functional products — from the initial UI concept to backend architecture, API development, database integration and deployment.
+
+### What I Focus On
+
+* 🏗️ Full Stack Web Application Development
+* 🐍 Python & Django Backend Systems
+* ⚛️ React & JavaScript Frontend Applications
+* 🔌 REST API Architecture
 * 🗄️ Database-driven Applications
-* 🎨 Responsive Frontend Development
-* 🔧 Git & GitHub
-* 🚀 Web Application Development
-
-### 🎯 Development Approach
-
-I focus on writing clean, maintainable and practical code while building responsive interfaces and reliable backend systems.
+* 🎨 Responsive & User-focused Interfaces
+* 🔧 Git-based Development Workflows
+* 🚀 Deployment & Production-ready Applications
 
 </td>
 
-<td width="40%" valign="top">
+<td width="35%" valign="top">
+
+### `DEVELOPER.OS`
 
 ```text
-╔══════════════════════════╗
-║     DEVELOPER PROFILE    ║
-╠══════════════════════════╣
-║                          ║
-║  👨‍💻 Full Stack Developer ║
-║                          ║
-║  🐍 Python / Django      ║
-║  ⚛️ React / JavaScript   ║
-║  🔌 REST API             ║
-║  🗄️ SQL / MongoDB        ║
-║  🎨 Frontend             ║
-║                          ║
-║  💡 Build                ║
-║  📚 Learn                ║
-║  🔧 Improve              ║
-║  🚀 Deploy               ║
-║                          ║
-╚══════════════════════════╝
+┌─────────────────────────┐
+│       YASIN.OS          │
+├─────────────────────────┤
+│                         │
+│ ROLE                    │
+│ Full Stack Developer    │
+│                         │
+│ BACKEND                 │
+│ Python / Django         │
+│                         │
+│ FRONTEND                │
+│ React / JavaScript      │
+│                         │
+│ API                     │
+│ REST Architecture       │
+│                         │
+│ DATABASE                │
+│ SQL / MongoDB           │
+│                         │
+│ MINDSET                 │
+│ Build • Learn • Improve │
+│                         │
+└─────────────────────────┘
 ```
 
 </td>
@@ -88,57 +106,85 @@ I focus on writing clean, maintainable and practical code while building respons
 
 ---
 
-# ⚡ Current Focus
+# ⚡ Engineering Focus
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Active-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/Django-Active-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+### 🧠
 
-<img src="https://img.shields.io/badge/React-Active-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+**ARCHITECTURE**
 
-<img src="https://img.shields.io/badge/JavaScript-Active-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+Designing structured and maintainable application systems.
 
-<img src="https://img.shields.io/badge/REST%20API-Building-FF914D?style=for-the-badge" alt="REST API">
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**BACKEND**
+
+Building APIs and server-side applications with Python & Django.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**FRONTEND**
+
+Creating responsive interfaces with React & JavaScript.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**DELIVERY**
+
+Turning development ideas into usable digital products.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧰 Technology Stack
 
-## 🎨 Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react" alt="Frontend Technologies">
-
-</div>
-
-<br>
-
-## 🐍 Backend
+## Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" alt="Backend Technologies">
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react" alt="Frontend Stack">
 
 </div>
 
-<br>
-
-## 🗄️ Database
+## Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Technologies">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" alt="Backend Stack">
 
 </div>
 
-<br>
+## Database
 
-## ⚙️ Tools & Environment
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Stack">
+
+</div>
+
+## Development Tools
 
 <div align="center">
 
@@ -148,49 +194,82 @@ I focus on writing clean, maintainable and practical code while building respons
 
 ---
 
-# 📊 GitHub Overview
+# 🏗️ Development Architecture
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/yashakil290905?label=FOLLOWERS&style=for-the-badge&color=FF914D" alt="GitHub Followers">
-
-<img src="https://img.shields.io/github/stars/yashakil290905?label=TOTAL%20STARS&style=for-the-badge&color=FF914D" alt="GitHub Stars">
-
-<img src="https://img.shields.io/github/repos/yashakil290905?label=REPOSITORIES&style=for-the-badge&color=FF914D" alt="Repositories">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/yashakil290905?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
-</a>
+```text
+                         ┌──────────────────┐
+                         │      💡 IDEA     │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    📋 PLANNING   │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │     🎨 UI/UX     │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                  ┌───────────────┴───────────────┐
+                  │                               │
+                  ▼                               ▼
+          ┌──────────────┐                 ┌──────────────┐
+          │ ⚛️ FRONTEND  │                 │ 🐍 BACKEND   │
+          │ React / JS   │                 │ Django       │
+          └──────┬───────┘                 └──────┬───────┘
+                 │                                │
+                 └───────────────┬────────────────┘
+                                 │
+                                 ▼
+                         ┌──────────────────┐
+                         │   🔌 REST API    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │   🗄️ DATABASE    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    🧪 TESTING    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │   🚀 DEPLOYMENT  │
+                         └──────────────────┘
+```
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🛒 Aytor E-Commerce
+## 🛒 Aytor
 
-A modern responsive e-commerce website with product-focused UI and responsive layouts.
+### E-Commerce Platform
 
-**Technologies**
+A responsive e-commerce interface designed around product presentation, navigation and modern web UI.
+
+**Stack**
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
 <br>
 
 <a href="https://yashakil290905.github.io/Aytor/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-FF914D?style=for-the-badge" alt="Aytor Live Demo">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-FF914D?style=for-the-badge" alt="Live Project">
 </a>
 
 </td>
@@ -199,16 +278,18 @@ A modern responsive e-commerce website with product-focused UI and responsive la
 
 ## 💬 Nexa Messenger
 
-A modern messaging application focused on communication and full-stack application architecture.
+### Messaging Application
 
-**Technologies**
+A modern messaging project focused on frontend application architecture, communication flows and backend integration.
+
+**Stack**
 
 `React` `JavaScript` `API` `Backend`
 
 <br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nexa Messenger">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
 
 </td>
@@ -221,16 +302,18 @@ A modern messaging application focused on communication and full-stack applicati
 
 ## 🌐 SocialConnect / Jonomot
 
-A full-stack social platform using React frontend and Django backend services.
+### Full Stack Social Platform
 
-**Technologies**
+A full-stack platform combining React frontend development with Django backend services and REST APIs.
+
+**Stack**
 
 `React` `Django` `REST API` `Database`
 
 <br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="SocialConnect">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
 
 </td>
@@ -239,16 +322,18 @@ A full-stack social platform using React frontend and Django backend services.
 
 ## 📱 QR Code Application
 
-A practical QR-based application designed for useful digital functionality.
+### Digital Utility Application
 
-**Technologies**
+A practical QR-based application designed around useful digital functionality and web interaction.
+
+**Stack**
 
 `Python` `Web` `API`
 
 <br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="QR Application">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
 </a>
 
 </td>
@@ -258,76 +343,135 @@ A practical QR-based application designed for useful digital functionality.
 
 ---
 
-# 🧩 What I Can Build
+# 🔌 What I Build
 
 <div align="center">
 
-| 🌐 Web Applications |   🔌 REST APIs  | 🛒 E-Commerce |       💬 Messaging      |
-| :-----------------: | :-------------: | :-----------: | :---------------------: |
-|    React / Django   | API Development |   Full Stack  | Application Development |
-
-<br>
-
-| 🐍 Backend Systems | ⚛️ Frontend Apps | 🗄️ Database Apps | 📱 Responsive UI |
-| :----------------: | :--------------: | :---------------: | :--------------: |
-|   Python / Django  |    React / JS    |   SQL / MongoDB   |     Modern UI    |
+|     PRODUCT TYPE     |       TECHNOLOGY      | PURPOSE                   |
+| :------------------: | :-------------------: | :------------------------ |
+|  🌐 Web Applications |     React + Django    | Complete digital products |
+|     🔌 REST APIs     | Django REST Framework | Backend services          |
+|     🛒 E-Commerce    |       Full Stack      | Online business systems   |
+|     💬 Messaging     |      React + API      | Communication platforms   |
+| 🗄️ Database Systems |     SQL / MongoDB     | Data-driven applications  |
+|   📱 Responsive UI   |    HTML / CSS / JS    | Modern user experiences   |
 
 </div>
 
 ---
 
-# 🔄 Development Workflow
+# 🧠 Engineering Principles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 01
+
+**CLEAN CODE**
+
+Readable and maintainable development.
+
+</td>
+
+<td align="center">
+
+### 02
+
+**SCALABLE SYSTEMS**
+
+Structured architecture for future growth.
+
+</td>
+
+<td align="center">
+
+### 03
+
+**API FIRST**
+
+Clear communication between systems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 04
+
+**RESPONSIVE**
+
+Interfaces that work across devices.
+
+</td>
+
+<td align="center">
+
+### 05
+
+**PROBLEM SOLVING**
+
+Technology focused on practical solutions.
+
+</td>
+
+<td align="center">
+
+### 06
+
+**CONTINUOUS LEARNING**
+
+Always improving technical skills.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📚 Current Learning Roadmap
 
 <div align="center">
 
 ```text
-                         💡 IDEA
-                           │
-                           ▼
-                      📋 PLANNING
-                           │
-                           ▼
-                        🎨 UI/UX
-                           │
-                           ▼
-                    💻 DEVELOPMENT
-                    ┌──────┴──────┐
-                    ▼             ▼
-                 ⚛️ React      🐍 Django
-                    │             │
-                    └──────┬──────┘
-                           ▼
-                       🔌 REST API
-                           │
-                           ▼
-                       🗄️ DATABASE
-                           │
-                           ▼
-                        🧪 TESTING
-                           │
-                           ▼
-                       🚀 DEPLOY
+                    ┌──────────────────┐
+                    │   CURRENT SKILLS │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+          🐍 Python       ⚛️ React       🔌 REST API
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │  ADVANCED DJANGO │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ SYSTEM DESIGN    │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ PRODUCTION APPS  │
+                    └──────────────────┘
 ```
 
 </div>
 
 ---
 
-# 📈 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github.com/yashakil290905.png?size=120" width="120" alt="Yasin Arafat Shakil GitHub Avatar">
-
-<br><br>
-
-**My GitHub contribution activity is shown directly below through GitHub's native profile contribution graph.**
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -341,85 +485,115 @@ A practical QR-based application designed for useful digital functionality.
 
 ---
 
-# 📌 Developer Principles
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CLEAN%20CODE-FF914D?style=for-the-badge" alt="Clean Code">
-
-<img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-FF914D?style=for-the-badge" alt="Responsive Design">
-
-<img src="https://img.shields.io/badge/API%20FIRST-FF914D?style=for-the-badge" alt="API First">
-
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-FF914D?style=for-the-badge" alt="Problem Solving">
-
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-FF914D?style=for-the-badge" alt="Continuous Learning">
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ADVANCED%20DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Advanced Django">
-
-<img src="https://img.shields.io/badge/REST%20API-FF914D?style=for-the-badge" alt="REST API">
-
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge" alt="CCNA">
-
-</div>
-
----
-
-# 💼 Developer Profile
-
-<div align="center">
-
-|   Category   | Details                        |
-| :----------: | :----------------------------- |
-|  👨‍💻 Role  | Full Stack Developer           |
-|  🐍 Backend  | Python • Django • REST API     |
-|  ⚛️ Frontend | React • JavaScript             |
-| 🗄️ Database | SQL • MongoDB                  |
-|   🔧 Tools   | Git • GitHub • VS Code • Linux |
-|   🌐 Focus   | Web Applications & APIs        |
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/GITHUB-yashakil290905-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/yashakil290905?tab=repositories">
+<img src="https://img.shields.io/github/repos/yashakil290905?label=REPOSITORIES&style=for-the-badge&color=FF914D" alt="Repositories">
 </a>
 
-<a href="https://linkedin.com/in/yashakil290905">
-<img src="https://img.shields.io/badge/LINKEDIN-YASIN%20ARAFAT%20SHAKIL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://github.com/yashakil290905?tab=followers">
+<img src="https://img.shields.io/github/followers/yashakil290905?label=FOLLOWERS&style=for-the-badge&color=FF914D" alt="Followers">
 </a>
 
-<a href="mailto:yashakil290905@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-yashakil290905%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="https://github.com/yashakil290905?tab=stars">
+<img src="https://img.shields.io/github/stars/yashakil290905?label=STARS&style=for-the-badge&color=FF914D" alt="Stars">
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### 💻 Build. Learn. Improve. Repeat.
-
-**Thanks for visiting my profile! 🚀**
 
 <br>
 
-<img src="https://img.shields.io/badge/MADE%20WITH-CODE%20%26%20COFFEE-FF914D?style=for-the-badge" alt="Made with Code and Coffee">
+<div align="center">
+
+<a href="https://github.com/yashakil290905?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
+</a>
+
+</div>
+
+---
+
+# 💼 Professional Profile
+
+<div align="center">
+
+| AREA                 | PROFILE                              |
+| :------------------- | :----------------------------------- |
+| 👨‍💻 **Role**       | Full Stack Developer                 |
+| 🐍 **Backend**       | Python • Django • REST API           |
+| ⚛️ **Frontend**      | React • JavaScript                   |
+| 🗄️ **Data**         | SQL • MongoDB                        |
+| 🧰 **Tools**         | Git • GitHub • VS Code • Linux       |
+| 🏗️ **Architecture** | Full Stack • API-driven Applications |
+| 🎯 **Focus**         | Modern Web Applications              |
+| 🚀 **Approach**      | Build • Test • Improve • Deploy      |
+
+</div>
+
+---
+
+# 🌐 Developer Ecosystem
+
+<div align="center">
+
+```text
+                         YASIN ARAFAT SHAKIL
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+         FRONTEND              BACKEND              DATABASE
+             │                    │                    │
+        React / JS          Python / Django       SQL / MongoDB
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                                  ▼
+                              REST API
+                                  │
+                                  ▼
+                           WEB APPLICATION
+                                  │
+                                  ▼
+                              🚀 PRODUCT
+```
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Have an idea, project or collaboration opportunity?
+
+<br>
+
+<a href="mailto:yashakil290905@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT%20ME-FF914D?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
+</a>
+
+<a href="https://linkedin.com/in/yashakil290905">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/yashakil290905">
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff914d,50:1a1a1a,100:111111&height=120&section=footer" width="100%" alt="Footer">
+
+### `BUILD • LEARN • IMPROVE • REPEAT`
+
+**Thanks for visiting my profile. 🚀**
 
 </div>
