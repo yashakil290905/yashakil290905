@@ -20,7 +20,7 @@ Building modern, responsive and practical web applications.
 </a>
 
 <a href="https://linkedin.com/in/yashakil290905">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Yasin%20Arafat%20Shakil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:yashakil290905@gmail.com">
@@ -145,7 +145,7 @@ I'm **Yasin Arafat Shakil**, a Full Stack Developer focused on building modern w
 <br><br>
 
 <a href="https://github.com/yashakil290905?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-FF914D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 
 </div>
@@ -170,7 +170,7 @@ Modern responsive e-commerce website with product-focused UI and responsive layo
 <br>
 
 <a href="https://yashakil290905.github.io/Aytor/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-FF914D?style=for-the-badge" alt="Live Demo">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF914D?style=for-the-badge" alt="Live Demo">
 </a>
 
 </td>
@@ -188,7 +188,7 @@ Modern messaging application focused on communication and full-stack application
 <br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </td>
@@ -210,7 +210,7 @@ Full-stack social platform using React frontend and Django backend services.
 <br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </td>
@@ -228,7 +228,7 @@ A practical QR-based application designed for useful digital functionality.
 <br>
 
 <a href="https://github.com/yashakil290905">
-<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </td>
@@ -260,11 +260,7 @@ A practical QR-based application designed for useful digital functionality.
 
 <div align="center">
 
-<a href="https://github.com/yashakil290905">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashakil290905&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph">
-
-</a>
 
 </div>
 
@@ -380,3 +376,30 @@ A practical QR-based application designed for useful digital functionality.
 </div>
 ```
 
+## 3. আপনার final structure
+
+সবশেষে repository-তে এটা থাকবে:
+
+```text
+yashakil290905/
+│
+├── .github/
+│   └── workflows/
+│       └── snake.yml
+│
+└── README.md
+```
+
+### ⚠️ খুব গুরুত্বপূর্ণ
+
+আপনি যে URL দিয়েছেন:
+
+`m/yashakil290905/yashakil290905/blob/main/.github/workflows/snake.yml`
+
+এখানে সম্ভবত URL-এর শুরুতে **`https://github.com`** অংশটি বাদ গেছে। আপনার workflow file-এর আসল GitHub path হবে:
+
+`github.com/yashakil290905/yashakil290905/blob/main/.github/workflows/snake.yml`
+
+আর **README-তে `snake.yml` code রাখবেন না**। `snake.yml` এবং `README.md` দুইটি আলাদা file।
+
+সবচেয়ে আগে **Actions → Generate Contribution Snake → Run workflow** করুন। যদি **red ❌ error** আসে, error-এর screenshot পাঠান—তাহলে README পরিবর্তন করার আগে Snake-এর exact error fix করা যাবে।
